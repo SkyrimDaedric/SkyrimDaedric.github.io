@@ -3,17 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: I'm a gamer. Get me out of here!!
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: I have a common disease called 'Gameritis'
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# URL of your avatat or icon(you could use your Github profile pic)
+avatar: https://img00.deviantart.net/daf4/i/2008/255/a/f/avatar_icon_by_pharaun_mizzrym.jpg
 
-#
-# Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
